@@ -3,3 +3,4 @@
 web/* filter=lfs diff=lfs merge=lfs -text
 StreamingAssets/web/* filter=lfs diff=lfs merge=lfs -text
 StreamingAssets/aa/WebGL/* filter=lfs diff=lfs merge=lfs -text
+ServerData/WebGL/* filter=lfs diff=lfs merge=lfs -text
