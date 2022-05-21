@@ -1,1 +1,3 @@
 dataUrl: "https://media.githubusercontent.com/media/DevDen94/Host/main/Build/Guzzler.data",
+
+dataUrl: "https://media.githubusercontent.com/media/DevDen94/Host/main/Build/WebGL.data",
